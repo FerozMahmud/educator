@@ -1,0 +1,13 @@
+.header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 120%;
+    margin-bottom: 25px;
+    position: sticky;
+}
+.nav{
+    color: whitesmoke;
+    margin: 10px;
+    text-decoration: none;
+}
