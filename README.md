@@ -8,6 +8,6 @@
 <br>
 • You can get the biggest & trusted online educational platform.
 <br>
-• Stay connected with our experiences & expertise teachers.
+• Stay connected with our most experienced teachers & expert instructor team.
 <br>
 • We provide 100+ online courses.
