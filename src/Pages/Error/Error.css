@@ -1,7 +1,13 @@
 .errorStyle{
     color: red;
-    margin: 100px 30%;
-    padding: 50px;
+    margin: 100px 20%;
+    padding: 100px 30px;
     line-height: 20px;
-    background-color: wheat;
+    background-color: whitesmoke;
+}
+.back-link{
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
 }

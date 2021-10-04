@@ -4,7 +4,7 @@
 
 ### Features of this website:
 
-• You can learn from your home. 
+• You can learn from your own place. 
 <br>
 • You can get the biggest & trusted online educational platform.
 <br>
