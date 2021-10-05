@@ -11,9 +11,16 @@ const Header = () => {
 
     return (
         <div>
+
+            {/* ..............................................
+            ..............Header part start here............
+            .............................................. */}
+
             <Navbar className='header'>
                 <Container>
                     <img height='50px' src="./logo.png" alt="" />
+
+                    {/* .........navebar start here........... */}
                     <Nav>
                         <NavLink className='nav' activeStyle={activeStyle} to="/home">Home</NavLink>
                         <NavLink className='nav' activeStyle={activeStyle} to="/services">Services</NavLink>

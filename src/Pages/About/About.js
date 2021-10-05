@@ -1,11 +1,10 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
 
 const About = () => {
     return (
         <div>
-            <Header></Header>
+
+            {/* ...............Top about section here........... */}
 
             <div className='container'>
                 <div className="row g-4">
@@ -23,6 +22,9 @@ const About = () => {
                     </div>
                 </div>
             </div>
+
+            {/* ...............Bottom about section here........... */}
+
             <div className='container'>
                 <h1 className='text-success'>Why is it best?</h1>
                 <div className="row p-5 g-4">
@@ -40,8 +42,6 @@ const About = () => {
                     </div>
                 </div>
             </div>
-
-            <Footer></Footer>
         </div>
     );
 };

@@ -10,4 +10,4 @@
 <br>
 • Stay connected with our most experienced teachers & expert instructor team.
 <br>
-• We provide 100+ online courses.
+• We provide 10+ online courses.

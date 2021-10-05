@@ -1,0 +1,62 @@
+[
+    {
+        "name": "James Richardson",
+        "designation": "Instractor",
+        "image": "https://cdn.pixabay.com/photo/2015/08/27/11/13/birger-kollmeier-910261_960_720.jpg"
+    },
+    {
+        "name": "Robert William",
+        "designation": "Instractor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7WBTgbP_0GKKGB-gb_JF2Prl6z4tYBiXgQYJ29l9wGgmMJvN0RGgeqLruqc_QyoZch_c&usqp=CAU"
+    },
+    {
+        "name": "David Joseph",
+        "designation": "Instractor",
+        "image": "https://st3.depositphotos.com/12982378/17888/i/600/depositphotos_178885894-stock-photo-grey-hair-professor-sitting-table.jpg"
+    },
+    {
+        "name": "Thomas Richard",
+        "designation": "Instractor",
+        "image": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI="
+    },
+    {
+        "name": "Robert Charles",
+        "designation": "Instractor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuqtQOisZnVPSVecbJcWzQ_RIIv93uw7lfgT27yyhdarsWnhTFU2k_1f9MiEjyJlprvY&usqp=CAU"
+    },
+    {
+        "name": "Andrew James",
+        "designation": "Instractor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3sXpFMn_EMfenCiM5QWcmfNb6I5wbYmX7JRnz7v1-psGAhpuqPvGwyCkAjbqPXZMdADw&usqp=CAU"
+    },
+    {
+        "name": "William Joseph",
+        "designation": "Instractor",
+        "image": "https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/03/adriaens-peter-portrait-350x350.jpg"
+    },
+    {
+        "name": "Gillian Metzger",
+        "designation": "Instractor",
+        "image": "https://www.law.columbia.edu/sites/default/files/2020-05/20200402_gillianmetzger_001_profile.jpg"
+    },
+    {
+        "name": "Robert Paul",
+        "designation": "Instractor",
+        "image": "https://www.asc.upenn.edu/sites/default/files/styles/360x360/public/2020-09/Viktor_Pickard_360.jpg?h=5273c5c2&itok=z-7eHDbk"
+    },
+    {
+        "name": "James Joseph",
+        "designation": "Instractor",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/professor-t-ben-miller-3-1626441284.jpg?crop=0.363xw:0.272xh;0.332xw,0.250xh&resize=640:*"
+    },
+    {
+        "name": "Isabella Sophia",
+        "designation": "Instractor",
+        "image": "https://media.istockphoto.com/photos/intelligent-matur-female-math-professor-in-classroom-picture-id638917964?k=20&m=638917964&s=612x612&w=0&h=RhILtaD7xwiMtctq1GjMpZz0XXiJpQ_WBTI215DxNFs="
+    },
+    {
+        "name": "William Richard",
+        "designation": "Instractor",
+        "image": "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/c/922/files/2017/03/635972932911796323793121814_College-Professor.jpg"
+    }
+]

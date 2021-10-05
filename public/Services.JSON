@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Social Science and Humanities",
+        "price": 59,
+        "image": "https://i.ibb.co/wybjHDh/cart-1.jpg"
+    },
+    {
+        "title": "Data science and software",
+        "price": 99,
+        "image": "https://i.ibb.co/3yMXWQP/cart-2.jpg"
+    },
+    {
+        "title": "Programming and Masterclass",
+        "price": 0,
+        "image": "https://i.ibb.co/Jrcqs8v/cart-3.png"
+    },
+    {
+        "title": "Programming for Beginners",
+        "price": 89,
+        "image": "https://i.ibb.co/Qcv8wrt/cart-4.png"
+    },
+    {
+        "title": "Online Arabic Course",
+        "price": 79,
+        "image": "https://images.squarespace-cdn.com/content/5a9850b95417fc1f5c48bde0/1563944691758-ERLGD6O62TWA7YG5JA5H/arabic+language+in+dhaka.jpg?content-type=image%2Fjpeg"
+    },
+    {
+        "title": "Online Bengali Course",
+        "price": 69,
+        "image": "https://q8v3g6g4.rocketcdn.me/wp-content/uploads/2020/06/image7-624w351h.jpg"
+    },
+    {
+        "title": "Online Spanish Course",
+        "price": 0,
+        "image": "https://downloadfreecourse.com/uploads/images/2021/03/webp/image_750x_6060826aad24e.webp"
+    },
+    {
+        "title": "Online English Course",
+        "price": 19,
+        "image": "https://www.freestudy.com/wp-content/uploads/2019/06/language-course-800x600.jpg"
+    },
+    {
+        "title": "Online Urdu Course",
+        "price": 49,
+        "image": "https://i.ytimg.com/vi/JHRagm7vSAI/maxresdefault.jpg"
+    },
+    {
+        "title": "Online Hindi Course",
+        "price": 39,
+        "image": "https://coursemarks.com/wp-content/uploads/2020/11/1755468_129f_19.jpg"
+    },
+    {
+        "title": "Online Nepali Course",
+        "price": 0,
+        "image": "https://www.collegenp.com/uploads/2020/10/Class-11-Compulsory-Nepali-Book.png"
+    },
+    {
+        "title": "Online Russian Course",
+        "price": 39,
+        "image": "https://i.pinimg.com/564x/85/14/e4/8514e499c960e994d29cd6ed35ed16c6.jpg"
+    }
+]

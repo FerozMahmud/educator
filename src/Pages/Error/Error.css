@@ -1,13 +1,21 @@
+
+/* ...............404 error page style here........... */
+
 .errorStyle{
     color: red;
-    margin: 100px 20%;
-    padding: 100px 30px;
-    line-height: 20px;
     background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
 .back-link{
+    background-color: rgb(144, 226, 11);
     color: blue;
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
+    padding: 4px 30px;
+    border-radius: 5px;
+}
+.back-click{
+    color: green;
 }

@@ -1,3 +1,6 @@
+
+/* ...............header page style here........... */
+
 .header{
     background-color: black;
     color: white;
@@ -6,6 +9,8 @@
     margin-bottom: 25px;
     position: sticky;
 }
+
+/* ...............navbar style here........... */
 .nav{
     color: whitesmoke;
     margin: 10px;

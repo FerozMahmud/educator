@@ -6,12 +6,20 @@ import Team from './Pages/Team/Team';
 import About from './Pages/About/About';
 import Error from './Pages/Error/Error';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Pages/Header/Header';
+import Footer from './Pages/Footer/Footer';
 
 
 function App() {
   return (
     <div className="App">
+
+      {/*  ...............................................
+           ..............React router use here............
+           ...............................................  */}
+
       <Router>
+        <Header></Header>
         <Switch>
 
           <Route exact path='/Home'>
@@ -39,6 +47,7 @@ function App() {
           </Route>
 
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
